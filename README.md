@@ -1,0 +1,2 @@
+# cmake-note
+ cmake note
