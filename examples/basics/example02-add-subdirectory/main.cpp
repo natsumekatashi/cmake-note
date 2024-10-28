@@ -1,6 +1,7 @@
-#include "hello.h"
+#include <iostream>
+#include "calc.h"
 
 int main() {
-    HelloWord obj = HelloWord();
-    obj.print();
+    std::cout << add(1, 2) << std::endl;
+    return 0;
 }
